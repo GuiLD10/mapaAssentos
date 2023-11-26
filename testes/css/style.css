@@ -1,9 +1,8 @@
-body{
-    background-image: url(../assets/img/aviao3.png);
+#mapa{
+    background-image: url(../assets/img/aaaaa.png);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    background-size: cover
+    background-size: 80% 140%;
 }
-
 
